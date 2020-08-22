@@ -68,7 +68,7 @@ def append_new_data(data, path_):
 def create_new_datafile(data, path_):
 
     with open(path_, 'w') as file_:
-        file_.write("time,currency,selling,buying\n")
+        file_.write("time,currency,buying,selling,effective_buying,effective_selling\n")
         file_.write(data + '\n')
 
 
