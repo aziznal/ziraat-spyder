@@ -1,0 +1,17 @@
+{
+    "USD": {
+        "selling": 0.0000,
+        "buying":  0.0000
+    },
+    "EUR": {
+        "selling": 0.0000,
+        "buying":  0.0000
+    },
+    "GBP": {
+        "selling": 0.0000,
+        "buying":  0.0000
+    },
+
+    "timestamp": "2020-01-01 Wednesday 00:00:00"
+    
+}
