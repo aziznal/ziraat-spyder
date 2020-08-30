@@ -1,8 +1,8 @@
-from BankSpyder import BankSpyder
+from BankSpider import BankSpider
 from CustomExceptions import *
 
 
-class ZiraatSpyder(BankSpyder):
+class ZiraatSpider(BankSpider):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
